@@ -1,2 +1,0 @@
-#!/bin/bash
-/var/lang/php74/bin/php  -c /var/runtime/php74 -S 0.0.0.0:9000
